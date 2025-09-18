@@ -1,6 +1,6 @@
 const Adejoke = () => {
   return (
-    <div className="bg-black p-8 h-full">
+    <div className="bg-black p-4 h-full">
       <div>
         <h1 className="text-white text-4xl">Hi Sunshine ☀️😍❤️</h1>
         <p className="text-white text-xl">Good morning</p>
